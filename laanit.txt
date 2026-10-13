@@ -1,0 +1,16 @@
+Web applications (Any managment system application like PG, Customer, ERP, Inventory, Product )
+Web application deployment in Cloud (AWS, Azure and Google cloud) 
+Cloud infrastructure for applications - Optimized cost 
+Desktop applications (Any managment system application like PG, Customer, ERP, Inventory, Product )
+Database applications 
+Automation of regular tasks 
+Reminder applications  
+Mobile applications
+Web site desigining
+Web site registration
+Application deployment automation 
+Cloud infrastructure automation 
+Cloud DevOps Projects (Engineering Projects)
+Cloud, DevOps Training (AWS, Git, Jenkins, Maven, Tomcat, Docker, Kubernetes and Bash scripting)
+Java, Python, Groovy and Terraform Training
+Business Reports 
